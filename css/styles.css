@@ -5,10 +5,9 @@
 }
 
 body {
-    width: 100vw;
+    width: 90vw;
     height: 100vh;
     font-family: sans-serif;
-    overflow-x: hidden;
     margin: auto;
 }
 
@@ -258,7 +257,7 @@ footer {
     .intro {
         display: flex;
         align-items: center;
-        
+
         .img-mockups {
             img {
                 display: none;
